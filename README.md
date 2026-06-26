@@ -2,9 +2,17 @@
 
 <p><em>Scientific ML Engineer | AI Engineer | Deep Learning and Computer Vision Enthusiast</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </em></p>
 
-[![Linkedin: LinkedIn](https://img.shields.io/badge/-thendralmagudapathi-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thendral-magudapathi-77762222b/)
-[![Gmail Badge](https://img.shields.io/badge/-thendralmag@outlook.com-c14438?style=flat-square&logo=Microsoft-Outlook&logoColor=white&link=mailto:thendralmag@outlook.com)](mailto:thendralmag@outlook.com)
-[![GitHub Thendral](https://img.shields.io/github/followers/thendralmagudapathi?label=follow&style=social)](https://github.com/thendralmagudapathi)
+<p align="left">
+  <a href="https://www.linkedin.com/in/thendral-magudapathi-77762222b/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:thendralmag@outlook.com">
+    <img src="https://img.shields.io/badge/-Email-0078D4?style=flat&logo=microsoft-outlook&logoColor=white" />
+  </a>
+  <a href="https://github.com/thendralmagudapathi">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
+  </a>
+</p>
 
 
 <a href="https://youtu.be/UA64ryFuEVU?si=5rnoQtmSOe-WHVnD" target="_blank" style="display:inline-block; transform: scale(1.2); transform-origin: left;">
