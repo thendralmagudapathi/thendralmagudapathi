@@ -1,4 +1,4 @@
-<h2> Hey, I'm Thendral Magudapathi!</h2>
+<h2> Thendral Magudapathi!</h2>
 
 <p><em>AI Engineer | <a href="https://www.smartan.ai/">Deep Learning and Computer Vision Enthusiast</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </em></p>
 
