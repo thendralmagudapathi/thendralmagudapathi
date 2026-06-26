@@ -1,8 +1,8 @@
 <h2> Thendral Magudapathi</h2>
 
-<p><em>Scientific ML Engineer | AI Engineer | <a href="https://www.smartan.ai/">Deep Learning and Computer Vision Enthusiast</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </em></p>
+<p><em>Scientific ML Engineer | AI Engineer | Deep Learning and Computer Vision Enthusiast</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </em></p>
 
-[![Linkedin: thendralmagudapathi](https://img.shields.io/badge/-thendralmagudapathi-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thendral-magudapathi-77762222b/)
+[![Linkedin: LinkedIn](https://img.shields.io/badge/-thendralmagudapathi-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thendral-magudapathi-77762222b/)
 [![Gmail Badge](https://img.shields.io/badge/-thendralmag@outlook.com-c14438?style=flat-square&logo=Microsoft-Outlook&logoColor=white&link=mailto:thendralmag@outlook.com)](mailto:thendralmag@outlook.com)
 [![GitHub Thendral](https://img.shields.io/github/followers/thendralmagudapathi?label=follow&style=social)](https://github.com/thendralmagudapathi)
 
@@ -33,9 +33,5 @@ Current Focus:
 🤗 Hugging Face         ███████████████████░░░ 90%  
 🧠 ViTs + Faiss         █████████████████░░░░░ 80%  
 🔁 Transformers         ████████████████████░░ 95%
-
----
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
