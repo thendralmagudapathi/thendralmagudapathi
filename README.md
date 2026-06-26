@@ -1,6 +1,6 @@
-<h2> Thendral Magudapathi!</h2>
+<h2> Thendral Magudapathi</h2>
 
-<p><em>AI Engineer | <a href="https://www.smartan.ai/">Deep Learning and Computer Vision Enthusiast</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </em></p>
+<p><em>Scientific ML Engineer | AI Engineer | <a href="https://www.smartan.ai/">Deep Learning and Computer Vision Enthusiast</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </em></p>
 
 [![Linkedin: thendralmagudapathi](https://img.shields.io/badge/-thendralmagudapathi-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thendral-magudapathi-77762222b/)
 [![Gmail Badge](https://img.shields.io/badge/-thendralmag@outlook.com-c14438?style=flat-square&logo=Microsoft-Outlook&logoColor=white&link=mailto:thendralmag@outlook.com)](mailto:thendralmag@outlook.com)
