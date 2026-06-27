@@ -4,12 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thendral-magudapathi-77762222b/)
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:thendralmag@outlook.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thendralmagudapathi)
 
-
-<a href="https://youtu.be/UA64ryFuEVU?si=5rnoQtmSOe-WHVnD" target="_blank" style="display:inline-block; transform: scale(1.2); transform-origin: left;">
-  <img src="https://img.shields.io/badge/🎙️%20Podcast-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Podcast" />
-</a>
 
 ```python
 tech_stack = {
